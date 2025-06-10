@@ -27,6 +27,6 @@ In this project, I:
 
 I am actively seeking opportunities for Data Analyst, Business Analyst, or Financial Analyst roles. I'm eager to apply my skills to solve real-world problems and contribute to a data-driven team.
 
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com/in/minhpdx)
+* **LinkedIn:** https://linkedin.com/in/minhpdx
 
 Thank you for visiting my profile!
